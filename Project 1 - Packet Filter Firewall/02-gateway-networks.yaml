@@ -1,0 +1,18 @@
+network:
+    renderer: networkd
+    version: 2
+    ethernets:
+        enp0s3:
+           addresses: [10.0.2.1/24]
+           #gateway4: 10.0.2.1
+           dhcp4: no
+           dhcp6: no
+           nameservers:
+              addresses: [208.67.222.222,208.67.220.222]
+        enp0s8:
+           addresses: []
+           #gateway4: 10.0.2.1
+           dhcp4: yes
+           dhcp6: no
+           nameservers:
+              addresses: [208.67.222.222,208.67.220.220]
