@@ -1,6 +1,6 @@
 # Projects for ASU CSE548
 
-These are assignments from Arizona State University (ASU), May 2021.
+These are assignments from Arizona State University (ASU), May to July 2021.
 
 ![ASU Ira A. Fulton Schools of Engineering](images/asu.png)
 
